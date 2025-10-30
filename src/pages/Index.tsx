@@ -145,27 +145,6 @@ const Index = () => {
           <div className="max-w-4xl mx-auto space-y-8">
             <div>
               <h3 className="text-2xl font-semibold mb-6 flex items-center gap-2">
-                <Icon name="Award" className="text-accent" size={28} />
-                Сертификаты и награды
-              </h3>
-              <div className="grid md:grid-cols-2 gap-4">
-                {[
-                  'Преподаватель года (2022)',
-                  'Международный сертификат TESOL',
-                  'Сертификат по инклюзивному образованию',
-                  'Диплом о повышении квалификации (EdTech)',
-                ].map((cert, index) => (
-                  <Card key={index} className="border-l-4 border-l-accent">
-                    <CardContent className="p-4">
-                      <p className="font-medium">{cert}</p>
-                    </CardContent>
-                  </Card>
-                ))}
-              </div>
-            </div>
-
-            <div>
-              <h3 className="text-2xl font-semibold mb-6 flex items-center gap-2">
                 <Icon name="BookOpen" className="text-accent" size={28} />
                 Ключевые навыки
               </h3>
