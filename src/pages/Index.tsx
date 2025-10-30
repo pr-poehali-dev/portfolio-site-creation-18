@@ -212,7 +212,7 @@ const Index = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <p className="font-medium">educator@example.com</p>
+                    <p className="font-medium">daturkina@yandex.ru</p>
                   </div>
                 </div>
 
@@ -232,7 +232,7 @@ const Index = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Местоположение</p>
-                    <p className="font-medium">Москва, Россия</p>
+                    <p className="font-medium">Череповец, Россия</p>
                   </div>
                 </div>
               </div>
