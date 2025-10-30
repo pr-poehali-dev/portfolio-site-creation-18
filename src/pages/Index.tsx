@@ -83,7 +83,7 @@ const Index = () => {
             </div>
             <div className="flex justify-center">
               <img
-                src="https://cdn.poehali.dev/projects/bfed337b-0322-4d21-be52-f660a742b13a/files/cd969883-c02d-4d9e-b122-eda67f2ee7ee.jpg"
+                src="https://cdn.poehali.dev/files/daf2a067-9390-4bad-8aea-8af010011278.jpg"
                 alt="Преподаватель"
                 className="rounded-lg shadow-2xl w-full max-w-md"
               />
