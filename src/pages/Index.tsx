@@ -180,10 +180,7 @@ const Index = () => {
               </h3>
               <div className="space-y-3">
                 {[
-                  'Подготовка 5 победителей всероссийских олимпиад',
-                  'Разработка авторского курса по современным образовательным технологиям',
-                  'Успешная защита 12 студенческих дипломных работ под научным руководством',
-                  'Публикация в международном журнале Journal of Educational Research',
+                  'Автор учебного пособия для подготовки к ОГЭ',
                 ].map((achievement, index) => (
                   <div key={index} className="flex items-start gap-3">
                     <Icon name="CheckCircle" className="text-accent mt-1 flex-shrink-0" size={20} />
